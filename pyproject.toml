@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-image-of-the-day"
 description = "Fetch a fresh image straight into your workflow from 8 daily/random sources. Useful for prompt testing, style references, daily-image automations, or just kicking off a workflow with something interesting."
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT"
 authors = [
     { name = "Peter Neill" }
